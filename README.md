@@ -1,4 +1,4 @@
-# Mark-AI_Financial_Advisor
+# Mark-Hybrid-Banking-ML
 Python | Scikit-Learn | XGBoost | LightGBM | Pandas | Matplotlib
 
 Hybrid Machine Learning Pipeline with Regression and Classification
